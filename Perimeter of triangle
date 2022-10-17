@@ -1,0 +1,16 @@
+public class Tiangle
+{
+	 int side a;
+	 int side b;
+	 int side c;
+	 Triangle (int a, int b, int c,)
+	 {
+	 	side a=a;
+	 	side b=b;
+	 	side c=c;
+	 }
+	 int perimeter()
+	 {
+	 	return(side a+side b+side c)
+	 }
+}
